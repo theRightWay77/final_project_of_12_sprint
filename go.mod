@@ -1,4 +1,4 @@
-module main
+module final_12_sprint
 
 go 1.25.0
 
